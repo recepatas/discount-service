@@ -1,8 +1,0 @@
-com/recepatas/AppTest.class
-com/recepatas/service/discount/TotalBillDiscountCalculatorTest.class
-com/recepatas/service/DiscountServiceTest.class
-com/recepatas/service/DiscountServiceIntegrationTest.class
-com/recepatas/service/discount/CustomerDiscountTest.class
-com/recepatas/service/discount/AffiliateDiscountTest.class
-com/recepatas/service/discount/UserDiscountCalculatorTest.class
-com/recepatas/service/discount/EmployeeDiscountTest.class
